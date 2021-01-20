@@ -9,14 +9,7 @@ Easy to used App for managing of Employee Database.
 
 Localhost/phpapp/index.php
 
-# CRUD Operations
 
-## CREATE
-## READ
-## UPDATE
-## DELETE
-
-## Error Message
 
 # App ScreenShots
 
